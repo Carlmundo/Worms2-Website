@@ -1,0 +1,87 @@
+	td {
+		font-family : geneva, tahoma, verdana, helvetica, sans-serif;
+		color : #75776F;
+	}
+
+	.lightwords {
+		color : #7B6BE7;
+	}
+
+	.lightoverwords {
+		color : #3D35DB;
+	}	
+
+	.lighttext {
+		color : #7B6BE7;
+		text-align : justify;
+	}
+
+	.darkwords {
+		color : #484A45;
+	}
+
+	.darkoverwords {
+		color : #484A45;
+	}
+	
+	.suppwords {
+		color : #484A45;
+		font-size : 20px;
+		text-align : justify;
+	}
+
+	.darktext {
+		color : #484A45;
+		text-align : justify;
+	}
+
+	.selected {
+		color : #000000;
+		font-weight : bold;
+	}
+
+	.error {
+		color : #FE0403;
+		font-weight : bold;
+	}
+
+	input.box {
+		font-family : geneva, tahoma, verdana, helvetica, sans-serif;
+		color : #000000;
+		background-color: #FFFFFF;
+		border-color: #75776F;
+		border-style: solid;
+		border-top-width: 1;
+		border-bottom-width: 1;
+		border-right-width: 1;
+		border-left-width: 1;
+		margin-top: 1;
+		width: 180;
+	}
+
+	textarea.box		{
+		font-family : geneva, tahoma, verdana, helvetica, sans-serif;
+		color : #000000;
+		background-color: #FFFFFF;
+		border-color: #75776F;
+		border-style: solid;
+		border-top-width: 1;
+		border-bottom-width: 1;
+		border-right-width: 1;
+		border-left-width: 1;
+		margin-top: 1;
+		width: 180;
+		height: 56;
+	}
+
+	a.navilink			{color : #000000; text-decoration : none}
+	a.navilink:hover	{color : #000000; font-weight : bold }
+
+	a.navilinkoff			{color : #000000; text-decoration : none}
+	a.navilinkoff:hover	{color : #000000; }
+
+	a.weblink 			{color : #333333; text-decoration : none; font-weight : bold}
+	a.weblink:hover 	{color : #FF9900; font-weight : bold}
+	
+	a.supplink			{color : #000000; text-decoration : none; font-size : 20px;}
+	a.supplink:hover	{color : #000000; font-size : 20px; }
